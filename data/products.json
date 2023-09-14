@@ -1,0 +1,16 @@
+[
+    {
+        "Name":"Samsung Tv",
+        "Price":35000.55,
+        "Stock":true,
+        "Rating":{"Rate":4.5,"Count":600},
+        "Photo":"/public/images/tv.wepg"
+    },
+    {
+        "Name":"Nike Casuals",
+        "Price":5000.55,
+        "Stock":true,
+        "Rating":{"Rate":3.5,"Count":300},
+        "Photo":"/public/images/shoe.wepg"
+    }
+]
